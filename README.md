@@ -23,7 +23,7 @@ git clone https://github.com/allenanant/humanize ~/.claude/skills/humanize
 Codex:
 
 ```
-git clone https://github.com/allenanant/humanize ~/.codex/skills/humanize
+git clone https://github.com/allenanant/humanize ~/.agents/skills/humanize
 ```
 
 Start a new session and type `/humanize`, or say "humanize this".
