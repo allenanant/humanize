@@ -26,7 +26,7 @@ Codex:
 git clone https://github.com/allenanant/humanize ~/.agents/skills/humanize
 ```
 
-Start a new session and type `/humanize`, or say "humanize this".
+Start a new session. In Claude Code, type `/humanize`. In Codex, type `$humanize` or pick it from `/skills`. Or just say "humanize this".
 
 ## What it does
 
